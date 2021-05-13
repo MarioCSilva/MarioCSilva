@@ -6,3 +6,6 @@
 -  **Learning :** Automation :zap: | AI :fire:	
 -  **Languages :** Python, Java, JavaScript, C, C++
 -  **University :** Aveiro
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCSilva&theme=tokyonight)
