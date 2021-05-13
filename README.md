@@ -7,4 +7,6 @@
 -  **Languages :** Python, Java, JavaScript, C, C++
 -  **University :** Aveiro
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCSilva&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23&card_width=260)
+<a href="https://github.com/hugofpaiva" target="_blank">
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioCSilva&hide_border=true&bg_color=45,569682,536A67&title_color=FFF&text_color=101016&custom_title=Weekly%20Development%20Breakdown" />
+</a>
