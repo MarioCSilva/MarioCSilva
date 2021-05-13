@@ -8,4 +8,4 @@
 -  **University :** Aveiro
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCSilva&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23&card_width=260)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCSilva&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,css,tsql,%23&card_width=260)
