@@ -4,5 +4,5 @@
 ### About
 
 -  **Learning :** Automation :zap: | AI :fire:	
--  **Languages :** Python, Java, JavaScript, C
+-  **Languages :** Python, Java, JavaScript, C++
 -  **University :** Aveiro
