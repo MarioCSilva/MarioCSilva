@@ -3,6 +3,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Machine Learning :zap: | AI :fire:	
--  **Languages :** Python, Java, JavaScript, C++
--  **Education :** Software Engineering Masters' at University of Aveiro
+-  **Learning**: Machine Learning :zap: | AI :fire:	
+-  **Languages**: Python, Java, JavaScript, C, C++
+-  **Education**: Software Engineering Masters' at the University of Aveiro
